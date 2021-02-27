@@ -8,8 +8,9 @@ body
 #cabecera
 {
     background-color: blue;
-    font-size: larger;
+    font-size: 30px;
+    color: cornsilk;
     font-weight: bold;
-    text-shadow: black; width 1px
+    text-shadow: black; width 3px
 
 }
