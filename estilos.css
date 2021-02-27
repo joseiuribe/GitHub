@@ -4,3 +4,12 @@ body
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: springgreen
 }
+
+#cabecera
+{
+    background-color: blue;
+    font-size: larger;
+    font-weight: bold;
+    text-shadow: black; width 1px
+
+}
