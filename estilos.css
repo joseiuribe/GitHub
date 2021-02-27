@@ -1,8 +1,8 @@
 body
 {
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
-    color: springgreen
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:darkslategrey;
 }
 
 #cabecera
@@ -11,6 +11,6 @@ body
     font-size: 30px;
     color: cornsilk;
     font-weight: bold;
-    text-shadow: black; width 3px
+    text-shadow: black; width 3px;
 
 }
