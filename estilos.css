@@ -4,3 +4,13 @@ body
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: springgreen
 }
+
+#cabecera
+{
+    background-color: blue;
+    font-size: 30px;
+    color: cornsilk;
+    font-weight: bold;
+    text-shadow: black; width 3px
+
+}
